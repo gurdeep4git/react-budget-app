@@ -1,0 +1,16 @@
+.form-content {
+    border-top: 1px solid #333;
+    border-bottom: 1px solid #333;
+    padding: 10px 0;
+}
+
+.form-container {
+    width: 50%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+
+.form-container>div {
+    margin-right: 20px;
+}

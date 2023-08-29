@@ -1,0 +1,25 @@
+.list-container {
+    width: 60%;
+    margin: 0 auto;
+}
+
+.list-row {
+    display: flex;
+    justify-content: space-between;
+}
+
+.list-col {
+    width: 45%;
+}
+
+.list-col p {
+    text-align: left;
+    font-weight: 600;
+}
+
+.list-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
